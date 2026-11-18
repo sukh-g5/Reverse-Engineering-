@@ -25,4 +25,4 @@ This repository documents the systematic physical teardown, measurement, and dig
 ## Repository Structure
 - 2D_Drawings: Individual 3D/2D engineering drawings with third-angle projection (.pdf)
 - 3D_Solidworks_Files: Individual SolidWorks part files (.SLDPRT) 
-- Final_Assembl: Assembly/Exploded view animations and motion study renders (.mp4)
+- Final_Assembly: Assembly/Exploded view animations and motion study renders (.mp4)
