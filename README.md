@@ -1,7 +1,7 @@
-# Reverse-Engineering Project 
+# Reverse-Engineering - ENGG*2100: Engineering & Design II Project
 
 # Toy Forklift Reverse Engineering
-ENGG*2100: Engineering & Design II Project
+
 
 A complete multidisciplinary reverse-engineering, CAD modeling, and kinematic simulation of a mechanical toy forklift, developed as part of the ENGG*2100 course at the University of Guelph.
 
